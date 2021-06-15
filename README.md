@@ -1,0 +1,2 @@
+# cubic-curve
+vvsu project
